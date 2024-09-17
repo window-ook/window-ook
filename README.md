@@ -2,7 +2,7 @@
 
 포트폴리오 사이트 https://devkoow.github.io/
 
-![devkoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkoow&show_icons=true&theme=radical)
+![devkoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=window-ook&show_icons=true&theme=radical)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devkoow)](https://github.com/eungyeole/velog-readme-stats)
 
