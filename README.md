@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </div>
-<br/>
 
 <!-- Library -->
 <div style='display:flex; align-items:center'>
@@ -29,7 +28,6 @@
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
 </div>
-<br/>
 
 <!-- UI -->
 <div style='display:flex; align-items:center'>
@@ -37,7 +35,6 @@
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white">
     <img src="https://img.shields.io/badge/highcharts-405473?style=flat-square&logo=&logoColor=#5A29E4">
 </div>
-<br/>
 
 <!-- 데이터베이스 (수파베이스, 파이어베이스) -->
 <div>
@@ -50,11 +47,6 @@
     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=black">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-</div>
-<br/>
-
-<!-- Manager -->
-<div>    
 </div>
 
 <!-- Etc. -->
