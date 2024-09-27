@@ -39,6 +39,11 @@
 </div>
 <br/>
 
+<!-- 데이터베이스 (수파베이스, 파이어베이스) -->
+<div>
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=mongodb&logoColor=white">
+</div>
+
 <!-- 배포 -->
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -47,10 +52,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </div>
 <br/>
-
-<!-- 데이터베이스 (수파베이스, 파이어베이스) -->
-<div>
-</div>
 
 <!-- Manager -->
 <div>    
@@ -76,8 +77,3 @@
     <img src="https://img.shields.io/badge/GitHub Actions-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 <br/>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=mongodb&logoColor=white">
-</div>
