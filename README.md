@@ -13,24 +13,22 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=devkoow)](https://solved.ac/devkoow)
 
-## ⌨ 스택
+## ⌨ What I Can
 
 <!-- "https://img.shields.io/badge/[보여줄 이름]-[폰트 컬러]?style=[뱃지 스타일]&logo=[스택의 아이콘]&logoColor=[로고컬러]" -->
 
 <!-- Frontend -->
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 <br/>
 
 <!-- Library -->
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/React Router-white?style=flat-square&logo=reactrouter&logoColor=CA4245">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
 </div>
 <br/>
@@ -43,23 +41,10 @@
 </div>
 <br/>
 
-<!-- OPEN API -->
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Upbit API-04055e?style=flat-square&logoColor=black">
-    <img src="https://img.shields.io/badge/Youtube Data-FF0000?style=flat-square&logo=youtube&logoColor=white">
-    <img src="https://img.shields.io/badge/Naver API-03C75A?style=flat-square&logo=naver&logoColor=white">
-</div>
-<br/>
-
 <!-- 배포 -->
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=black">
-</div>
-<br/>
-
-<!-- CI/CD -->
-<div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </div>
@@ -83,13 +68,7 @@
 </div>
 <br/>
 
-## ✍ 배울 스택
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    
-</div>
-<br/>
+## ✍ What I Want
 
 <div style='display:flex; align-items:center'>
      <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
