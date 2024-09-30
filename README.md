@@ -38,7 +38,8 @@
 
 <!-- 데이터베이스 (수파베이스, 파이어베이스) -->
 <div>
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
 </div>
 
 <!-- 배포 -->
