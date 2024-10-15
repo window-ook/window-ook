@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=windowook's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=반갑습니다)](https://git.io/typing-svg)
 
 ![devkoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=window-ook&show_icons=true&theme=radical)
 
@@ -6,10 +6,6 @@
 
 <!-- 깃허브 hits -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23387BF1&title_bg=%23F1C224&icon=&icon_color=%23000000&title=GitHub+Hits%21&edge_flat=false)](https://hits.seeyoufarm.com) -->
-
-## 👨🏻‍💻 Baekjoon Rank
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=devkoow)](https://solved.ac/devkoow)
 
 ## ⌨ What I Can
 
@@ -38,7 +34,6 @@
 
 <!-- 데이터베이스 (수파베이스, 파이어베이스) -->
 <div>
-    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
 </div>
 
