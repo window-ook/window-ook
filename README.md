@@ -20,6 +20,7 @@
 
 <!-- Library -->
 <div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
     <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
