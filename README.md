@@ -55,14 +55,3 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 </div>
 <br/>
-
-## ✍ I'd learn
-
-<div style='display:flex; align-items:center'>
-     <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
-     <img src="https://img.shields.io/badge/API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white">
-     <img src="https://img.shields.io/badge/Cloudfront-1d1f24?style=flat-square&logo=amazon&logoColor=white"> 
-     <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub Actions-181717?style=flat-square&logo=github&logoColor=white">
-</div>
-<br/>
