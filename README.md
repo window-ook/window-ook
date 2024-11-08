@@ -30,7 +30,7 @@
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white">
-    <img src="https://img.shields.io/badge/highcharts-405473?style=flat-square&logo=&logoColor=#5A29E4">
+    <img src="https://img.shields.io/badge/Highcharts-405473?style=flat-square&logo=&logoColor=#5A29E4">
 </div>
 
 <!-- 데이터베이스 (수파베이스, 파이어베이스) -->
