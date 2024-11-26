@@ -7,7 +7,7 @@
 <!-- 깃허브 hits -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23387BF1&title_bg=%23F1C224&icon=&icon_color=%23000000&title=GitHub+Hits%21&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-## ⌨ I've used
+## ⌨ I've ever used
 
 <!-- "https://img.shields.io/badge/[보여줄 이름]-[폰트 컬러]?style=[뱃지 스타일]&logo=[스택의 아이콘]&logoColor=[로고컬러]" -->
 
