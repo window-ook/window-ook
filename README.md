@@ -7,5 +7,3 @@
 <!-- 깃허브 hits -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23387BF1&title_bg=%23F1C224&icon=&icon_color=%23000000&title=GitHub+Hits%21&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-![stack](https://github.com/user-attachments/assets/34beb1cb-185c-4457-8422-0556583e3005)
-
