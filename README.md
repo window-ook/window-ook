@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=Hello)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&pause=1000&color=F7D434&center=false&vCenter=true&random=false&width=435&lines=Hello%20I'm%20windowook!)](https://git.io/typing-svg)
 
 ![devkoow's GitHub stats](https://github-readme-stats.vercel.app/api?username=window-ook&show_icons=true&theme=radical)
+
+### EZ VIEW Portfolio
+https://window-ook.github.io/portfolio/
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=windowook)](https://velog.io/@windowook/posts)
 
