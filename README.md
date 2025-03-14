@@ -6,9 +6,3 @@
 
 ### EZ VIEW Portfolio
 https://window-ook.github.io/portfolio/
-
-### Windowook's Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=windowook)](https://velog.io/@windowook/posts)
-
-
-
