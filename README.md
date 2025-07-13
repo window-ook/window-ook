@@ -1,6 +1,6 @@
 <div align='center'> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&pause=1000&color=0FF7BC&center=true&vCenter=true&lines=Gonna+Be+A+Product+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&pause=1000&color=0FF7BC&center=true&vCenter=true&lines=Product+Engineer+Windowook" alt="Typing SVG" /></a>
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23387BF1&title_bg=%23F1C224&icon=&icon_color=%23000000&title=GitHub+Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
