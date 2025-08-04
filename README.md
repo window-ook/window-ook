@@ -27,7 +27,7 @@
         <a href="https://ezbit.vercel.app/">
           <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="100px;" alt="" style='border-radius:50%'/><br />
           <sub>
-            <b>Meet Meet</b>
+            <b>EZBIT</b>
           </sub>
         </a><br />
       </td>
