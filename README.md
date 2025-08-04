@@ -23,10 +23,16 @@
           </sub>
         </a><br />
       </td>
+       <td align="center">
+        <a href="https://ezbit.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="100px;" alt="" style='border-radius:50%'/><br />
+          <sub>
+            <b>Meet Meet</b>
+          </sub>
+        </a><br />
+      </td>
     </tr>
   </tbody>
 </table>
-
-![window-ook's GitHub stats](https://github-readme-stats.vercel.app/api?username=window-ook&show_icons=true&theme=radical)
 </div>
 
