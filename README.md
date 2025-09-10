@@ -1,37 +1,64 @@
-<div align='center'> 
-
 <img width="2560" height="640" src="https://github.com/user-attachments/assets/6cd84726-456e-4230-8002-c1eb12ebd537" />
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://meet-meet-psi.vercel.app/" target="_blank" rel="noopener 
-          noreferrer">
-          <img src="https://github.com/user-attachments/assets/145ec3ae-2d78-4217-b823-6c546401d5d5" width="100px;" alt="" style='border-radius:50%'/><br />
-          <sub>
-            <b>Meet Meet</b>
-          </sub>
-        </a><br />
-      </td>
-      <td align="center">
-        <a href="https://app.cafe-masters.co/" target="_blank" rel="noopener
-         noreferrer">
-          <img src="https://github.com/user-attachments/assets/f86618a0-26f1-4f6c-9f7f-c6ad49429018" width="100px;" alt="" style='border-radius:50%'/><br />
-          <sub>
-            <b>Cafe Masters</b>
-          </sub>
-        </a><br />
-      </td>
-       <td align="center">
-        <div>
-          <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="100px;" alt="" style='border-radius:50%'/><br />
-          <sub>
-            <b>EZBIT</b>
-          </sub>
-        </div><br />
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<!-- 노트북 -->
+<div>
+  <img align="right" width="40%" src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757475458/react_nextjs_zqoczo.png">
 </div>
 
+<!-- 간단한 자기소개 -->
+
+# <img width="30" src='https://res.cloudinary.com/dbvzbdffi/image/upload/v1757475077/60fps_parrot_xwr7gp.gif' />프론트엔드 개발자 이창욱입니다
+
+<!--Start Intro-->
+<p align="left">서비스로 사람들에게 새로운 가치를 주는 것이 꿈입니다</p>
+
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+</div>
+<div style='display:flex; align-items:center'>
+     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
+    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white">
+    <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</div>
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=red">
+</div>
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+</div>
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Git Actions-2088FF?style=flat-square&logo=github&logoColor=white"> 
+</div><br>
+
+---
+
+<div align="center">
+
+### PROJECTS
+
+</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://meet-meet-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757476448/meet-transp_bzaqdm.avif" width="100" /><br />
+        <sub><b>Meet Meet</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://app.cafe-masters.co/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/f86618a0-26f1-4f6c-9f7f-c6ad49429018" width="100" /><br />
+        <sub><b>Cafe Masters</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="70" /><br />
+      <sub><b>EZBIT</b></sub>
+    </td>
+  </tr>
+</table>
