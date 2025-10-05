@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
      <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
@@ -23,25 +26,31 @@
     <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white">
     <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=red">
+    <img src="https://img.shields.io/badge/Playwright-34A853?style=flat-square&logo=playwright&logoColor=white">
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Git Actions-2088FF?style=flat-square&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white"> 
 </div><br>
 
 ---
 
 <div align="center">
-
+  
 ### PROJECTS
 
 </div>
+
 <table align="center">
   <tr>
     <td align="center" width="200">
@@ -62,3 +71,19 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  
+### 방문해주셔서 감사합니다
+
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <a href="https://velog.io/@windowook/posts" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
+  
+  <a href="https://www.rallit.com/hub/resumes/1043832/%EC%9D%B4%EC%B0%BD%EC%9A%B1" style="text-decoration: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/rallit-00CCAB?style=for-the-badge&logo=inflearn&logoColor=white">
+  </a>
+</div>
