@@ -21,26 +21,34 @@
     <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
-     <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
     <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
     <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white">
     <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</div>
+
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white">
     <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
 </div>
+
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=red">
     <img src="https://img.shields.io/badge/Playwright-34A853?style=flat-square&logo=playwright&logoColor=white">
     <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
 </div>
+
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
 </div>
+
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white">
+</div>
+
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=red">
 </div><br>
 
 ---
