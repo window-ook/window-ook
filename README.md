@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
   
-  <a href="https://www.rallit.com/hub/resumes/1043832/%EC%9D%B4%EC%B0%BD%EC%9A%B1" style="text-decoration: none; margin: 0 8px;">
-    <img src="https://img.shields.io/badge/rallit-00CCAB?style=for-the-badge&logo=inflearn&logoColor=white">
+  <a href="https://www.linkedin.com/in/%EC%B0%BD%EC%9A%B1-%EC%9D%B4-0b7800383" style="text-decoration: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
