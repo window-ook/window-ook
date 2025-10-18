@@ -7,7 +7,7 @@
 
 <!-- 간단한 자기소개 -->
 
-# <img width="30" src='https://res.cloudinary.com/dbvzbdffi/image/upload/v1757475077/60fps_parrot_xwr7gp.gif' />프론트엔드 개발자 이창욱입니다
+# 프론트엔드 개발자 이창욱입니다
 
 <!--Start Intro-->
 <p align="left">서비스로 사람들에게 새로운 가치를 주는 것이 꿈입니다</p>
@@ -16,9 +16,6 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
@@ -34,21 +31,11 @@
 </div>
 
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Playwright-34A853?style=flat-square&logo=playwright&logoColor=white">
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
 </div>
 
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=red">
 </div><br>
 
 ---
@@ -62,12 +49,6 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <a href="https://meet-meet-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757476448/meet-transp_bzaqdm.avif" width="100" /><br />
-        <sub><b>Meet Meet</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
       <a href="https://app.cafe-masters.co/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/f86618a0-26f1-4f6c-9f7f-c6ad49429018" width="100" /><br />
         <sub><b>Cafe Masters</b></sub>
@@ -76,6 +57,12 @@
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="70" /><br />
       <sub><b>EZBIT</b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://meet-meet-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757476448/meet-transp_bzaqdm.avif" width="100" /><br />
+        <sub><b>Meet Meet</b></sub>
+      </a>
     </td>
   </tr>
 </table>
