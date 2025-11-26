@@ -49,7 +49,7 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <a href="https://app.cafe-masters.co/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.cafe-masters.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/f86618a0-26f1-4f6c-9f7f-c6ad49429018" width="100" /><br />
         <sub><b>Cafe Masters</b></sub>
       </a>
