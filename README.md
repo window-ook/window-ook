@@ -7,10 +7,10 @@
 
 <!-- 간단한 자기소개 -->
 
-# 프론트엔드 개발자 이창욱입니다
+# 안녕하세요! 프론트엔드 개발자 이창욱입니다
 
 <!--Start Intro-->
-<p align="left">서비스로 사람들에게 새로운 가치를 주는 것이 꿈입니다</p>
+<p align="left">개발을 좋아하는 누구나 환영합니다</p>
 
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
@@ -18,13 +18,16 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 <div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
-    <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
     <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white">
     <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
 </div>
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
+</div>
 
 <div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white">
     <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
