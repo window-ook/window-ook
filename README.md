@@ -7,10 +7,10 @@
 
 <!-- 간단한 자기소개 -->
 
-# 안녕하세요! 프론트엔드 개발자 이창욱입니다
+# 프론트엔드 개발자 이창욱입니다
 
 <!--Start Intro-->
-<p align="left">개발을 좋아하는 누구나 환영합니다</p>
+<p align="left">에이전트 시대의 프로덕트 엔지니어가 되고자 합니다</p>
 
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
