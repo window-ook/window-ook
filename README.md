@@ -1,16 +1,40 @@
 <img width="2560" height="640" src="https://github.com/user-attachments/assets/6cd84726-456e-4230-8002-c1eb12ebd537" />
 
+<!-- 간단한 자기소개 -->
+
+# 안녕하세요 개발자 이창욱입니다
+
 <!-- 노트북 -->
 <div>
   <img align="right" width="40%" src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757475458/react_nextjs_zqoczo.png">
 </div>
 
-<!-- 간단한 자기소개 -->
-
-# 프론트엔드 개발자 이창욱입니다
-
 <!--Start Intro-->
-<p align="left">에이전트 시대의 프로덕트 엔지니어가 되고자 합니다</p>
+<div align="left">
+
+프론트엔드를 중심으로 다양한 능력을 가진 프로덕트 엔지니어가 되고자 합니다.
+
+                  ┌────────────────────────────────┐
+                  │          🎨 Frontend           │
+                  └───────────────┬────────────────┘
+                                  │
+             ┌────────────────────┼──────────────────────┐
+             │                    │                      │
+             ▼                    ▼                      ▼
+     ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+     │   🤖 Agent   │      │  🔗 Backend  │      │   ☁️ Infra   │
+     └──────────────┘      └──────────────┘      └──────────────┘
+
+</div>
+
+> **🤖 Claude Code Orchestrator**<br>
+Claude Code를 무기로 개발 생산성을 극대화합니다
+
+> **🔗 Frontend-Driven Backend Builder**<br>
+프론트엔드 관점에서 백엔드 시스템을 설계하고 연결합니다
+
+> **☁️ Cost-Friendly Infrastructure Selector**<br>
+서비스의 비용과 성능을 고려한 효율적인 클라우드 인프라 환경을 구축합니다
 
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
