@@ -63,6 +63,13 @@ Claude Code를 무기로 개발 생산성을 극대화합니다
 
 <div style='display:flex; align-items:center'>
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/EC2-F68536?style=flat-square&logo=amazon&logoColor=white">
+    <img src="https://img.shields.io/badge/docker compose-1D63ED?style=flat-square&logo=docker&logoColor=white">
+</div>
+
+<div style='display:flex; align-items:center'>
+    <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claude&logoColor=white">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 </div><br>
 
 ---
