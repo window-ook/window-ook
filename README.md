@@ -3,29 +3,43 @@
 <!-- 간단한 자기소개 -->
 
 # 안녕하세요
-
-<!-- 노트북 -->
-<div>
-  <img align="right" width="40%" src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757475458/react_nextjs_zqoczo.png">
-</div>
-
-<!--Start Intro-->
-<div align="left">
-
 프론트엔드를 중심으로 다양한 능력을 가진 프로덕트 엔지니어가 되고자 합니다
+<table>
+<tr>
+  <td valign="top">
+    
+  ```
+                    ┌────────────────────────────────┐
+                    │          🎨 Frontend           │
+                    └───────────────┬────────────────┘
+                                    │
+               ┌────────────────────┼──────────────────────┐
+               │                    │                      │
+               ▼                    ▼                      ▼
+       ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+       │   🤖 Agent   │      │  🔗 Backend  │      │   ☁️ Infra   │
+       └──────────────┘      └──────────────┘      └──────────────┘
+  ```
+  
+  </td>
+  <td valign="top">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white"> <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white"> <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/EC2-F68536?style=flat-square&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/docker compose-1D63ED?style=flat-square&logo=docker&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
+  </td>
+</tr>
+</table>
 
-                  ┌────────────────────────────────┐
-                  │          🎨 Frontend           │
-                  └───────────────┬────────────────┘
-                                  │
-             ┌────────────────────┼──────────────────────┐
-             │                    │                      │
-             ▼                    ▼                      ▼
-     ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-     │   🤖 Agent   │      │  🔗 Backend  │      │   ☁️ Infra   │
-     └──────────────┘      └──────────────┘      └──────────────┘
-
-</div>
 
 > **🤖 Claude Code Orchestrator**<br>
 Claude Code를 무기로 개발 생산성을 극대화합니다
@@ -36,47 +50,11 @@ Claude Code를 무기로 개발 생산성을 극대화합니다
 > **☁️ Cost-Friendly Infrastructure Selector**<br>
 서비스의 비용과 성능을 고려한 효율적인 클라우드 인프라 환경을 구축합니다
 
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-</div>
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white">
-    <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
-</div>
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
-    <img src="https://img.shields.io/badge/Zustand-4a2c2a?style=flat-square&logo=zustand&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-    <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white">
-    <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/EC2-F68536?style=flat-square&logo=amazon&logoColor=white">
-    <img src="https://img.shields.io/badge/docker compose-1D63ED?style=flat-square&logo=docker&logoColor=white">
-</div>
-
-<div style='display:flex; align-items:center'>
-    <img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claude&logoColor=white">
-    <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
-</div><br>
-
 ---
 
 <div align="center">
   
-### PROJECTS
+### LINKS
 
 </div>
 
