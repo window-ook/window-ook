@@ -69,29 +69,23 @@ Claude Code를 무기로 개발 생산성을 극대화합니다
       </a>
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="70" /><br />
-      <sub><b>EZBIT</b></sub>
-    </td>
-    <td align="center" width="200">
       <a href="https://meet-meet-psi.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://res.cloudinary.com/dbvzbdffi/image/upload/v1757476448/meet-transp_bzaqdm.avif" width="100" /><br />
         <sub><b>Meet Meet</b></sub>
       </a>
     </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/bd58dcc9-8d91-4364-980d-e578aa8c2b18" width="70" /><br />
+      <sub><b>EZBIT</b></sub>
+    </td>
   </tr>
 </table>
 
 <div align="center">
-  
-### 방문해주셔서 감사합니다
 
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <a href="https://velog.io/@windowook/posts" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-  </a>
-  
   <a href="https://www.linkedin.com/in/%EC%B0%BD%EC%9A%B1-%EC%9D%B4-0b7800383" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
