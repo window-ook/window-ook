@@ -77,4 +77,3 @@ Claude Code를 무기로 개발 생산성을 극대화합니다
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
-```
